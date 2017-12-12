@@ -1,6 +1,6 @@
 ========================================Read me===========================================
 1. Install the XAMPP. Note: you need to install XAMPP 5.6.28 version 
-2.Copy the adsProject8751 folder in the C:\xampp\htdocs
+2.Copy the addressbook.zip folder in the C:\xampp\htdocs
 
 
 Installing the DB
